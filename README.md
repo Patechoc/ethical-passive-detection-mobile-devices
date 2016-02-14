@@ -1,6 +1,6 @@
 # Ethical Passive Detection of Mobile Devices (smartphones)
 
-> This project aims at **detecting the presence/displacement of mobile devices**  from one "local station/cell" **while guaranteeing people's anonymity** and **data transparency** [civic hacking](https://opengovdata.io/2014/civic-hacking/).
+> This project aims at **detecting the presence/displacement of mobile devices**  from one "local station/cell" **while guaranteeing people's anonymity** and **data transparency** ([civic hacking](https://opengovdata.io/2014/civic-hacking/)).
 > With a system made of several of such "local stations/cells", it could monitor the movement of people/crowd anonymously, e.g. enabling a global picture of pedestrians travelling within the city.
 
 ### Why tracking mobile devices?
